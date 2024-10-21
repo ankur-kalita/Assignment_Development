@@ -2,7 +2,7 @@
 
 ```sh
 git clone https://github.com/ankur-kalita/Assignment_Development.git
-cd MovieLand
+cd MovieMayhem
 npm i 
 ```
 Rename .env.example to .env and enter the omdbapi.com API KEY
