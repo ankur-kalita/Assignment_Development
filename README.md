@@ -1,7 +1,7 @@
 ## GET STARTED
 
 ```sh
-https://github.com/ankur-kalita/Assignment_Development.git
+git clone https://github.com/ankur-kalita/Assignment_Development.git
 cd MovieLand
 npm i 
 ```
